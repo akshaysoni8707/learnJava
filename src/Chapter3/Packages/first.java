@@ -1,7 +1,7 @@
 package Chapter3.Packages;
 
 /*
- * Access Specifier    within class      within package      within package by subclass/ child       outside package
+ * Access Specifier    within class      within package      outside package by subclass/ child       outside package
  *     Private              Y                  N                           N                               N
  *     Default              Y                  Y                           N                               N
  *     Protected            Y                  Y                           Y                               N
