@@ -36,7 +36,6 @@ public class ArrayDemo {
             dataDemo[i] = "Hello " + (i+1);
         }
 
-
         DummyArray d = new DummyArray();
         d.setData(dataDemo);
         System.out.println(Arrays.toString(d.getData()));
